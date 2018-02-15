@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>TestAPI.dll</Assembly>
+    <ClientId>5e558978-9a73-4a01-8fed-e4edd68f169e</ClientId>
+    <FullClassName>TestAPI.Class1</FullClassName>
+    <Text>Class1</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
